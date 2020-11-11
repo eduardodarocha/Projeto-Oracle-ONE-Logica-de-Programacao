@@ -4,8 +4,8 @@
      
  ### A Formação é composta de 6 Cursos:
  **- Lógica de programação I: Os primeiros programas com Javascript e HTML**
-   *Instrutor Flavio Henrique de Souza Almeida
-   *Conteúdo:
+ Instrutor Flavio Henrique de Souza Almeida
+ Conteúdo:
    - Lógica de programação
    - Iniciando na programação com JavaScript
    - Variáveis e seu uso
