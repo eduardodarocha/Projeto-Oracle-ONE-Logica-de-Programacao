@@ -3,43 +3,33 @@
  ### Formação Oracle ONE: Lógica de Programação realizado na Alura e intermediado pela LABORA.
      
  ### A Formação é composta de 6 Cursos:
- **- Lógica de programação I: Os primeiros programas com Javascript e HTML**
- Instrutor Flavio Henrique de Souza Almeida
- Conteúdo:
+ **- Lógica de programação I: Os primeiros programas com Javascript e HTML** - Instrutor Flavio Henrique de Souza Almeida
    - Lógica de programação
    - Iniciando na programação com JavaScript
    - Variáveis e seu uso
    - Tarefas com laços, loops, fors e whiles
    
- **- Lógica de programação II: pratique com desenhos, animações e um jogo** 
-   Instrutor Flavio Henrique de Souza Almeida
-   Conteúdo:
+ **- Lógica de programação II: pratique com desenhos, animações e um jogo** - Instrutor Flavio Henrique de Souza Almeida
    - Canvas para gerar desenhos e animações
    - Trabalhando com dados (array)
    - Funções
    - Interação com usuário
    
- **- HTML5 e CSS3 parte 1: A primeira página da Web**
-   Instrutor Pedro Marins
-   Conteúdo:
+ **- HTML5 e CSS3 parte 1: A primeira página da Web** - Instrutor Pedro Marins
    - O que é o HTML e o CSS
    - Estrutura básica de um arquivo HTML
    - Utilize o navegador para inspecionar elementos
    - Definição de estilos para elementos usando o CSS
    - Desenvolvimento um página Web - Barbearia Alura
  
- **- HTML5 e CSS3 parte 2: Posicionamento, listas e navegação**
-   Instrutor Pedro Marins
-   Conteúdo:
+ **- HTML5 e CSS3 parte 2: Posicionamento, listas e navegação** - Instrutor Pedro Marins
    - Naveguação entre páginas web
    - reset.css e o posicionamento pelo CSS
    - Diferença entre inline e block
    - Bordas e pseudo-classes CSS
    - Finalizando a página de produtos da Barbearia Alura
 
- **- JavaScript: Programando na linguagem da web**
-   Instrutor Douglas Quintanilha Barbosa Ferreira
-   Conteúdo:
+ **- JavaScript: Programando na linguagem da web** - Instrutor Douglas Quintanilha Barbosa Ferreira
    - Como funciona esta popular linguagem do mercado
    - Variáveis e Operadores
    - Manipulação dos elementos de sua página
@@ -51,7 +41,6 @@
    - Busca de dados em outro servidor com AJAX
     
  **- Projeto Oracle ONE Lógica de Programação - Alura**
-   Conteúdo:
    - Publicando seu projeto
    - Introdução a Git e GitHub
    - Seu projeto no GitHub
