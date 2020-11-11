@@ -11,7 +11,7 @@
     - Tarefas com laços, loops, fors e whiles
 ---------------------------
     
- **- Lógica de programação II: pratique com desenhos, animações e um jogo** 
+ **2) Lógica de programação II: pratique com desenhos, animações e um jogo** 
  - Instrutor Flavio Henrique de Souza Almeida
    - Canvas para gerar desenhos e animações
    - Trabalhando com dados (array)
@@ -19,7 +19,7 @@
    - Interação com usuário
 ---------------------------
    
- **- HTML5 e CSS3 parte 1: A primeira página da Web** 
+ **3) HTML5 e CSS3 parte 1: A primeira página da Web** 
  - Instrutor Pedro Marins
    - O que é o HTML e o CSS
    - Estrutura básica de um arquivo HTML
@@ -28,7 +28,7 @@
    - Desenvolvimento um página Web - Barbearia Alura
 ---------------------------
  
- **- HTML5 e CSS3 parte 2: Posicionamento, listas e navegação** 
+ **4) HTML5 e CSS3 parte 2: Posicionamento, listas e navegação** 
  - Instrutor Pedro Marins
    - Naveguação entre páginas web
    - reset.css e o posicionamento pelo CSS
@@ -37,7 +37,7 @@
    - Finalizando a página de produtos da Barbearia Alura
 ---------------------------
 
- **- JavaScript: Programando na linguagem da web** 
+ **5) JavaScript: Programando na linguagem da web** 
  - Instrutor Douglas Quintanilha Barbosa Ferreira
    - Como funciona esta popular linguagem do mercado
    - Variáveis e Operadores
@@ -50,7 +50,7 @@
    - Busca de dados em outro servidor com AJAX
 ---------------------------
     
- **- Projeto Oracle ONE Lógica de Programação - Alura**
+ **6) Projeto Oracle ONE Lógica de Programação - Alura**
    - Publicando seu projeto
    - Introdução a Git e GitHub
    - Seu projeto no GitHub
