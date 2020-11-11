@@ -3,12 +3,12 @@
  ### Formação Oracle ONE: Lógica de Programação realizado na Alura e intermediado pela LABORA.
      
  ### A Formação é composta de 6 Cursos:
- **1) Lógica de programação I: Os primeiros programas com Javascript e HTML** 
- - Instrutor Flavio Henrique de Souza Almeida
-    - Lógica de programação
-    - Iniciando na programação com JavaScript
-    - Variáveis e seu uso
-    - Tarefas com laços, loops, fors e whiles
+  **1) Lógica de programação I: Os primeiros programas com Javascript e HTML** 
+  - Instrutor Flavio Henrique de Souza Almeida
+     - Lógica de programação
+     - Iniciando na programação com JavaScript
+     - Variáveis e seu uso
+     - Tarefas com laços, loops, fors e whiles
 ---------------------------
     
  **2) Lógica de programação II: pratique com desenhos, animações e um jogo** 
