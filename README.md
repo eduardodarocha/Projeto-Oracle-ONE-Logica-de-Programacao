@@ -1,9 +1,9 @@
 # Projeto Oracle ONE Lógica de Programação / Curso da Alura
 ## Projeto Final Curso de Lógica de Programação Oracle One / Labora / Alura
  
- Esse foi o projeto feito na Formação Oracle ONE: Lógica de Programação realizado na Alura.
+ ### Esse foi o projeto feito na Formação Oracle ONE: Lógica de Programação realizado na Alura.
  
- A Formação é composta de 6 Cursos:
+ ### A Formação é composta de 6 Cursos:
  - Lógica de programação I: Os primeiros programas com Javascript e HTML - Instrutor Flavio Henrique de Souza Almeida
  - Lógica de programação II: pratique com desenhos, animações e um jogo - Instrutor Flavio Henrique de Souza Almeida
  - HTML5 e CSS3 parte 1: A primeira página da Web - Instrutor Pedro Marins
