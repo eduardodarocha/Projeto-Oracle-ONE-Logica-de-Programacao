@@ -9,7 +9,7 @@
     - Iniciando na programação com JavaScript
     - Variáveis e seu uso
     - Tarefas com laços, loops, fors e whiles
-    -----------------
+-----------------
     
  **- Lógica de programação II: pratique com desenhos, animações e um jogo** 
  - Instrutor Flavio Henrique de Souza Almeida
@@ -17,7 +17,7 @@
    - Trabalhando com dados (array)
    - Funções
    - Interação com usuário
-   -----------------
+-----------------
    
  **- HTML5 e CSS3 parte 1: A primeira página da Web** 
  - Instrutor Pedro Marins
