@@ -4,7 +4,7 @@
      
  ### A Formação é composta de 6 Cursos:
  **- Lógica de programação I: Os primeiros programas com Javascript e HTML**
-    Instrutor Flavio Henrique de Souza Almeida
+   Instrutor Flavio Henrique de Souza Almeida
    Conteúdo:
    - Lógica de programação
    - Iniciando na programação com JavaScript
@@ -66,6 +66,6 @@
    https://www.linkedin.com/in/douglas-quintanilha/
    
    **Patrocinadores:**
-   https://www.labora.tech/
-   https://www.oracle.com/br/education/oracle-next-education/
-   https://www.alura.com.br/oracle-next-education
+   [LABORA](https://www.labora.tech/)
+   [Oracle One](https://www.oracle.com/br/education/oracle-next-education/)
+   [Alura](https://www.alura.com.br/oracle-next-education)
