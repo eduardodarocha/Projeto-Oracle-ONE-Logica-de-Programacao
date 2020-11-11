@@ -9,7 +9,7 @@
     - Iniciando na programação com JavaScript
     - Variáveis e seu uso
     - Tarefas com laços, loops, fors e whiles
------------------
+---------------------------
     
  **- Lógica de programação II: pratique com desenhos, animações e um jogo** 
  - Instrutor Flavio Henrique de Souza Almeida
@@ -17,7 +17,7 @@
    - Trabalhando com dados (array)
    - Funções
    - Interação com usuário
------------------
+---------------------------
    
  **- HTML5 e CSS3 parte 1: A primeira página da Web** 
  - Instrutor Pedro Marins
@@ -26,7 +26,7 @@
    - Utilize o navegador para inspecionar elementos
    - Definição de estilos para elementos usando o CSS
    - Desenvolvimento um página Web - Barbearia Alura
-   -----------------
+---------------------------
  
  **- HTML5 e CSS3 parte 2: Posicionamento, listas e navegação** 
  - Instrutor Pedro Marins
@@ -35,7 +35,7 @@
    - Diferença entre inline e block
    - Bordas e pseudo-classes CSS
    - Finalizando a página de produtos da Barbearia Alura
-   -----------------
+---------------------------
 
  **- JavaScript: Programando na linguagem da web** 
  - Instrutor Douglas Quintanilha Barbosa Ferreira
@@ -48,13 +48,13 @@
    - Filtrando uma tabela
    - Conheçendo boas práticas de organização de código Javascript
    - Busca de dados em outro servidor com AJAX
-   -----------------
+---------------------------
     
  **- Projeto Oracle ONE Lógica de Programação - Alura**
    - Publicando seu projeto
    - Introdução a Git e GitHub
    - Seu projeto no GitHub
-   -----------------
+---------------------------
   
 **Instrutores Alura:**
  **- Flavio Henrique de Souza Almeida** é desenvolvedor e instrutor, focado no desenvolvimento com Angular e procurando conciliar o frontend com o backend. Palestrou em conferências como QCON e MobileConf. É autor do best-seller "Cangaceiro JavaScript". Além da sua graduação e MBA em TI, também é graduado em Psicologia, aplicando os aprendizados desta área no desenvolvimento de software e de aplicações web.
@@ -64,7 +64,7 @@
    
  **- Douglas Quintanilha Barbosa Ferreira** é desenvolvedor e instrutor na Caelum, além de instrutor na Alura, interessado em Javascript, Front end, administração de sistemas e um pouquinho de Eletrônica!
    https://www.linkedin.com/in/douglas-quintanilha/
-   -----------------
+---------------------------
    
    **Patrocinadores:**
    [LABORA](https://www.labora.tech/)
