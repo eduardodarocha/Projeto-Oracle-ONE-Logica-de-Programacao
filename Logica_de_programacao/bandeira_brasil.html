@@ -1,0 +1,30 @@
+﻿<canvas width="700" height="490"></canvas>
+<script>
+    var tela = document.querySelector('canvas');
+    var pincel = tela.getContext('2d');
+    //retângulo verde
+    pincel.fillStyle = 'green';
+    pincel.fillRect(0, 0, 700, 490);
+    //triângulo superior
+    pincel.fillStyle = 'yellow';
+    pincel.beginPath();
+    pincel.moveTo(350, 56);
+    pincel.lineTo(644, 245);
+    //pincel.lineTo(350, 434); //com essa linha não precisa do trinângulo inferior
+    pincel.lineTo(56, 245);
+    pincel.fill();
+    //triângulo - inferior
+    pincel.beginPath();
+    pincel.moveTo(350, 434);
+    pincel.lineTo(56, 245);
+    pincel.lineTo(644, 245);
+    pincel.fill();
+    //circulo central
+    pincel.fillStyle = 'darkblue';
+    pincel.beginPath();
+    pincel.arc(350, 245, 100, 0, 2 * 3.14);
+
+
+    pincel.fill();
+    //pincel.fill();
+</script>

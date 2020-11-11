@@ -1,0 +1,52 @@
+﻿<canvas width="600" height="400"></canvas>
+<script>
+    // Função para desenhar um retângulo
+    function desenhaRetangulo(x, y, largura, altura, cor) {
+        pincel.fillStyle = cor;
+        pincel.fillRect(x, y, largura, altura);
+        pincel.fillStroke = 'black';
+        pincel.strokeRect(x, y, largura, altura);
+    }
+
+    // Função para escrever um texto
+    function desenhaTexto(x, y, texto) {
+        pincel.font = '15px Georgia';
+        pincel.fillStyle = 'black';
+        pincel.fillText(texto, x, y);
+    }
+
+    //função principal para fazer as barras
+    function desenhaBarra(x, y, serie, cores, texto) {
+        desenhaTexto(x, y - 10, texto)
+
+        var largura = 50;
+        inicio_caixa_y = y;
+
+        for (var cont = 0; cont < serie.length; cont++) {
+            var altura = serie[cont];
+            var cor = cores[cont];
+            desenhaRetangulo(x, inicio_caixa_y, largura, altura, cor);
+            inicio_caixa_y = inicio_caixa_y + serie[cont];
+        }
+
+    }
+    var tela = document.querySelector('canvas');
+    var pincel = tela.getContext('2d');
+
+    // Séries para barra
+    var serie2015 = [50, 25, 20, 5];
+    var serie2016 = [65, 20, 13, 2];
+    // cores das barras
+    var cores = ['blue', 'green', 'yellow', 'red'];
+
+
+    // Chamada da função
+    desenhaBarra(50, 50, serie2015, cores, '2015');
+    desenhaBarra(150, 50, serie2016, cores, '2016');
+
+
+
+    //Chamada da funçõa para teste
+    // desenhaRetangulo(50, 50, 100, 100, 'yellow');
+    //desenhaTexto(50, 75, "Teste de Texto");
+</script>

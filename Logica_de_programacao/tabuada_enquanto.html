@@ -1,0 +1,34 @@
+﻿<meta charset="UTF-8">
+
+<script>
+    function pulaLinha() {
+
+        document.write("<br>");
+        document.write("<br>");
+
+    }
+
+    function mostra(frase) {
+
+        document.write(frase);
+        pulaLinha();
+    }
+    //var multiplicador = 1;
+    /*while (multiplicador <= 10) {
+        mostra(7 * multiplicador)
+        multiplicador = multiplicador + 1; //ou multiplicador++;
+
+    } */
+    for (var multiplicador = 1; multiplicador <= 10; multiplicador = multiplicador + 1) {
+        mostra(8 * multiplicador)
+    }
+    mostra("Fim")
+    for (var i = 0; i < 10; i++) {
+        alert("O resultado é " + (2 * i));
+    }
+    var i = 0;
+    while (i < 10) {
+        alert("O resultado é " + (2 * i));
+        i++;
+    }
+</script>
