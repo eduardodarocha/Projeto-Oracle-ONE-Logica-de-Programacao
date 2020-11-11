@@ -62,11 +62,11 @@
  **- Pedro Marins**, pela base tecnológica da minha formação, estou sempre estudando novas tecnologias e tendências de mercado. Através de uma experiência profissional multidisciplinar estou envolvida em diversos projetos inovadores, transformando negócios a partir do que há de mais novo no mercado. 
    https://www.linkedin.com/in/pedromarins/
    
- **- Douglas Quintanilha Barbosa Ferreira** é desenvolvedor e instrutor na Caelum, além de instrutor na Alura, interessado em Javascript, Front end, administração de sistemas e um pouquinho de Eletrônica!
+ **- Douglas Quintanilha Barbosa Ferreira** é desenvolvedor e instrutor na Caelum, além de instrutor na Alura, interessado em Javascript, Front end, administração de sistemas e um pouquinho de Eletrônica.
    https://www.linkedin.com/in/douglas-quintanilha/
 ---------------------------
    
    **Patrocinadores:**
-   [LABORA](https://www.labora.tech/)
-   [Oracle One](https://www.oracle.com/br/education/oracle-next-education/)
-   [Alura](https://www.alura.com.br/oracle-next-education)
+   *[LABORA](https://www.labora.tech/)
+   *[Oracle One](https://www.oracle.com/br/education/oracle-next-education/)
+   *[Alura](https://www.alura.com.br/oracle-next-education)
