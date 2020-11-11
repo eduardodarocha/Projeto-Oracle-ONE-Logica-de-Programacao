@@ -67,7 +67,7 @@
    
 ---------------------------
    
-   **Patrocinadores:**
-   -[LABORA](https://www.labora.tech/)
-   -[Oracle One](https://www.oracle.com/br/education/oracle-next-education/)
-   -[Alura](https://www.alura.com.br/oracle-next-education)
+**Links**
+   - [LABORA](https://www.labora.tech/)
+   - [Oracle One](https://www.oracle.com/br/education/oracle-next-education/)
+   - [Alura](https://www.alura.com.br/oracle-next-education)
