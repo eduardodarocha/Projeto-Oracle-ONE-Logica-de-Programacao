@@ -1,7 +1,7 @@
-# Projeto Oracle ONE: Lógica de Programação / Labora / Alura
+# Projeto Oracle ONE: Lógica de Programação / Alura / Labora
 https://eduardodarocha.github.io/Projeto-Oracle-ONE-Logica-de-Programacao/
  
- ### Formação Oracle ONE: Lógica de Programação realizado na Alura e intermediado pela LABORA.
+ ### Formação Oracle ONE: Lógica de Programação realizado na Alura com parceria da LABORA.
      
  ### A Formação é composta de 6 Cursos:
    **1) Lógica de programação I: Os primeiros programas com Javascript e HTML** 
@@ -26,11 +26,12 @@ https://eduardodarocha.github.io/Projeto-Oracle-ONE-Logica-de-Programacao/
    - Estrutura básica de um arquivo HTML
    - Utilize o navegador para inspecionar elementos
    - Definição de estilos para elementos usando o CSS
-   - Desenvolvimento um página Web - Barbearia Alura
+   - Início do desenvolvimento um página Web - Barbearia Alura
 ---------------------------
  
  **4) HTML5 e CSS3 parte 2: Posicionamento, listas e navegação** 
  - Instrutor Pedro Marins
+   - Estrutura da página HTML
    - Naveguação entre páginas web
    - reset.css e o posicionamento pelo CSS
    - Diferença entre inline e block
